@@ -2,7 +2,7 @@
 
 This repository provides two Windows Registry (.reg) files to help you **disable** or **enable** Windows automatic updates with a simple double-click.
 
-## 📁 Files
+## 📁 Files inside ZIP folder
 
 - `disable_windows_auto_update.reg`  
   Disables Windows Automatic Updates by modifying a registry policy.
@@ -12,10 +12,10 @@ This repository provides two Windows Registry (.reg) files to help you **disable
 
 ## 📦 How to Use
 
-1. **Download** the `.reg` file you want to use.
-2. **Double-click** the file.
+1. **Choose** the `.reg` file you wanna use.
+2. **Double-click** on it.
 3. If prompted, allow the Registry Editor to apply the changes.
-4. **Restart** your PC to apply the settings fully.
+4. **DONE.**
 
 > ⚠️ **Important Notice**:
 > - Disabling updates might expose your system to **security risks**.
