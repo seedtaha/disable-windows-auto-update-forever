@@ -27,8 +27,8 @@ This repository provides two Windows Registry (.reg) files to help you **disable
 
 ## ✅ Tested on
 
-- Windows 10 (Pro/Home)
 - Windows 11 (all editions)
+- Windows 10 (Pro/Home)
 
 > 💡 Tip: You can manually check for updates anytime via **Settings > Windows Update** even if automatic updates are disabled.
 
@@ -38,6 +38,10 @@ This repository provides two Windows Registry (.reg) files to help you **disable
 
 This project is released under the [MIT License](LICENSE).
 
-## 🙋 Support
+## Support
 
 If you find this useful, feel free to star ⭐ the repo or suggest improvements via pull requests.
+
+## Contact Via:
+
+Fb.com/seed.103
