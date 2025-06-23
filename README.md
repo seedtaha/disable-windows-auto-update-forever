@@ -42,6 +42,6 @@ This project is released under the [MIT License](LICENSE).
 
 If you find this useful, feel free to star ⭐ the repo or suggest improvements via pull requests.
 
-## Contact Via:
+## Contact
 
 Fb.com/seed.103
