@@ -44,4 +44,4 @@ If you find this useful, feel free to star the repo or suggest improvements via 
 
 ## Contact
 
-fb.com/seed.103
+https://www.fb.com/seed.103
